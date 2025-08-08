@@ -1,5 +1,6 @@
 # 🛒 E-Commerce Full Stack Project
 🚀 Features
+```bash
 ✅ User Signup & Login (JWT Auth)
 ✅ Profile with Image, Name, Email
 ✅ Add Products (with Image upload to Cloudinary)

@@ -1,0 +1,24 @@
+.raj {
+  background-image: url('../assets/login.avif');
+  background-size: cover;        /* Ensures the image covers the entire background area */
+  background-repeat: no-repeat;  /* Prevents image repetition */
+  background-position: center;   /* Centers the image */                  /* Full width */                /* Full viewport height */
+}
+.raj1{
+    background-image: url("../assets//5166950.jpg");
+     background-size: cover;        /* Ensures the image covers the entire background area */
+  background-repeat: no-repeat;  /* Prevents image repetition */
+  background-position: center;
+}
+.raj2 {
+  background-size: cover;        /* Image covers entire area */
+  background-repeat: no-repeat;  /* No tiling */
+  background-position: center;
+  background-color: #b3fff0;   /* Center the image */
+}
+.raj3{
+   background-image: url("../assets/product.jpg");
+     background-size: cover;        /* Ensures the image covers the entire background area */
+  background-repeat: no-repeat;  /* Prevents image repetition */
+  background-position: center;
+}

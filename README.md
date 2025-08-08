@@ -17,7 +17,7 @@ A full-stack e-commerce application built with:
 ---
 
 ## 📂 Folder Structure
-
+```bash
 e-commerce/
 │
 ├── backend/ # Spring Boot application
